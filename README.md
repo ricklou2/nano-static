@@ -8,6 +8,8 @@
 
 A standalone, fully static build of **nano**, a small and friendly text editor. Eight executables are provided — four for Linux (musl) and four for Android (NDK, API 24) — together with the upstream source and build scripts. The binaries have no dynamic interpreter and no shared-library dependencies, and are aligned to 16 KB pages, so they run on Android phones (Android 7–16), embedded devices, and minimal Linux systems.
 
+**Upstream version:** nano 8.7 (ncurses 6.4)
+
 ### Executables
 
 | File | Size | MD5 |
@@ -73,6 +75,8 @@ sh build/build-nano-8.sh
 
 **nano** 的独立全静态构建包，小巧易用的文本编辑器。共提供 8 个可执行文件——Linux（musl）4 个、Android（NDK，API 24）4 个，并附上游源码与构建脚本。可执行文件无动态解释器、无共享库依赖，按 16 KB 页对齐，可在安卓手机（Android 7–16）、嵌入式设备和精简 Linux 系统上运行。
 
+**上游版本：**nano 8.7 (ncurses 6.4)
+
 ### 可执行文件
 
 | 文件 | Size | MD5 |
@@ -137,6 +141,8 @@ sh build/build-nano-8.sh
 ## 繁體中文
 
 **nano** 的獨立全靜態建構包，小巧易學的文字編輯器。共提供 8 個可執行檔——Linux（musl）4 個、Android（NDK，API 24）4 個，並附上游原始碼與建構腳本。可執行檔無動態直譯器、無共用程式庫相依性，按 16 KB 頁對齊，可在安卓手機（Android 7–16）、嵌入式裝置和精簡 Linux 系統上執行。
+
+**上游版本：**nano 8.7 (ncurses 6.4)
 
 ### 可執行檔
 
